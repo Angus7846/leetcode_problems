@@ -1,4 +1,4 @@
-package LinkedListProblems;
+package LinkedListProblems.MiddleLinkedList;
 
 class ListNode {
     int val;
